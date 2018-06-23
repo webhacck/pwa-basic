@@ -1,0 +1,17 @@
+{
+  "lang": "ja",
+  "short_name": "【ホーム画面に表示する名称】",
+  "name": "【バナーに表示する名称】",
+  "icons": [
+    {
+      "src": "【画像のパス】",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "【最初に表示するURL】",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3",
+  "orientation": "portrait"
+}
